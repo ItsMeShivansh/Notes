@@ -5,3 +5,8 @@ Welcome to my personal collection of notes! This repository contains well-organi
 ## 📖 Contents  
 - **DSA**  
 - **LA**    
+
+## Upcoming Updates:
+- **Graphs by 24th Apr EOD**
+- **Complete LA Notes by 23th Apr EOD**
+
