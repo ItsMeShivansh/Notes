@@ -8,5 +8,6 @@ Welcome to my personal collection of notes! This repository contains well-organi
 
 ## 📝 Feedback
 I’d love to hear your thoughts and suggestions!
-Link: https://docs.google.com/forms/d/e/1FAIpQLSfkVdaZaRZBx_pFxpzLY08PtDWvdx6bfB3Q0u_fSi_9wqDhfA/viewform?usp=header
+[Submit Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfkVdaZaRZBx_pFxpzLY08PtDWvdx6bfB3Q0u_fSi_9wqDhfA/viewform?usp=header)
+
 
