@@ -6,6 +6,4 @@ Welcome to my personal collection of notes! This repository contains well-organi
 - **DSA**  
 - **LA**    
 
-## Upcoming Updates:
-- **Graphs by 24th Apr EOD**
 
